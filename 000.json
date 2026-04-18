@@ -190,7 +190,12 @@
             "filterable": 1,
             "ext": "https://qpcj.69mini.com/api.php/app/"
         },
-      
+      {
+			"key": "py_动漫巴士",
+			"name": "💝分享巴士",
+			"type": 4,
+			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
+		},
           {
       "key": "90",
       "name": "💝分享┃90",
