@@ -1158,7 +1158,7 @@
 			"timeout": 60
 		},
           
- {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/兔小贝.js"},
+ {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/兔小贝.js"},
 
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
@@ -1216,6 +1216,30 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
+    },
+
+	{
+            "name": "💝分享者解析-",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+        },
+	{"name":"💝分享者解析+",
+        "type":0,
+        "url":"https://yparse.ik9.cc/index.php?url=",
+        "ext":{
+        "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        },  
+      {
+      "name": "💝分享者解析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
     },
   {
       "name": "💝分享者4k",
@@ -1291,26 +1315,8 @@
                 }
             }
         },
-       {
-            "name": "💝分享者解析+",
-            "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url="
-        },
-        {
-            "name": "💝分享者解析-",
-            "type": 0,
-            "url": "https://jx.2s0.cn/player/?url="
-        },
-  {
-      "name": "💝分享者解析",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-        }
-      }
-    },
+       
+    
     {
             "name": "💖分享者解析1",
             "type": 1,
