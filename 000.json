@@ -146,28 +146,6 @@
             },
             "changeable": 1
         },
-        {
-            "key": "全+网",
-            "name": "💝分享全网",
-            "type": 1,
-            "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "playUrl": "json:https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url=",
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "金蝉1",
-            "name": "💝分享金蝉",
-            "type": 1,
-            "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-            "searchable": 1,
-            "playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url=",
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
 
 	 {
             "key": "1剧吧",
