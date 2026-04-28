@@ -195,6 +195,47 @@
             "api": "https://gitee.com/s-7/tv/raw/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
+
+	{
+            "key": "猫头鹰",
+            "name": "💝分享蓝鹰",
+            "type": 3,
+            "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+            "searchable": 1,
+            "ext": {
+                "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "key": "zxPtEUDGVllIUhDB",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "suisui-岁-至臻清风-7",
+            "name": "💝分享清风",
+            "type": 4,
+            "api": "http://sspa8.top:8100/php/清风.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "一次性-奇点影视",
+            "name": "💝分享起点",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "简介": "剧情介绍:+讲述的是：&&",
+                "多线数组": "solid transparent;\"&&</a>",
+                "多线链接": "href=\"&&\"",
+                "线路数组": "solid transparent;\"&&</a>",
+                "线路标题": ">&&<",
+                "分类url": 
+                "https://qidianyingshi.net/top/{cateId}-{area}-time-{class}-----{catePg}---{year}.html",
+                "分类": "短剧$6#电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
 {
             "key": "drpyS_集百动漫[漫]",
             "name": "💝分享集百",
@@ -712,8 +753,6 @@
         {"key":"py_sync","name":"💖分享茫然","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/Mang.py","searchable":1,"filterable":1,"changeable":1},
      {"key":"py_bili","name":"💖分享哔哩","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/哔哩视频.py","searchable":1,"filterable":1,"changeable":1},
      
-{"key": "app_分享者解析","name": "️💖分享解析","type": 1,"api": "https://vs.okcdn100.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,
-"categories":["国产剧", "动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "悬疑片", "奇幻片","恐怖片", "剧情片","战争片", "武侠片", "中国动漫", "日本动漫", "欧美动漫", "港台动漫","海外动漫", "韩剧", "香港剧","欧美剧", "日剧","台剧","马泰剧", "综艺","动漫","短剧"]},	
  {
       "key": "fxzYD",
       "name": "💖分享移动",
@@ -857,7 +896,7 @@
 	
      {
 	"key": "hipy_js_fxzhz",
-	"name": "💖分享瓜子",
+	"name": "💖分享瓜子-",
 	"type": 3,
          "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
 	"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享GZ.js"
