@@ -525,12 +525,8 @@
           {"key":"聚合短剧_async","name":"💝分享短剧","type":3,"api":"https://gh-proxy.org/https:/raw.githubusercontent.com/cluntop/cluntop.github.io/main/js/聚合短剧.js","style":{"type":"rect","ratio":1.33},
 "changeable":1},
    
-      {"key":"天天","name":"💝分享天天","type":3,"api":"csp_TTian","playerType":2,"jar": "http://tv.laohu.cool/lh260223.jar;md5;671e242ecba31efec15dca7156486c9b","ext":"7lj763gg0939791h1l3888jig44gi291li"},
-      
-{"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar":"http://tv.laohu.cool/lh260223.jar;md5;671e242ecba31efec15dca7156486c9b","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
-{"key":"AI2","name":"💝分享AI-2","type":3,"api":"csp_Nox","searchable":1,"quickSearch":1,"filterable":0,"playerType":2, "jar":"http://tv.laohu.cool/lh260223.jar;md5;671e242ecba31efec15dca7156486c9b","ext":"7lj763gg0939795i007gi487k212jli5hilk930794j964714k5g5hh1lg18551g1k9849lg8i4h83817947lji1l7ki08khl963754gkjhji5h32i9632lj2jk10j02k2hgi3h2k63g3171984i3j4187k54j2428l1h84h05hi9ll5jlgj0jlh49484937479l71glk912kl1jgi0j267h2kil39i5874l0gig2282271ll6211kh68k074j43181343226kk21lg28ghl076g8g6j73kg4j5lg277j33420k2244gh5647533854l5kl1i28277k356997g2hlk038jkl3321793j3l4996g10k044k938i18h7318g79695g055765g6206h0g4i9ljkg9igk450292lg4l60lij8h1k2k25469hlh9jj5kkl89607g15l82h8j4243kh7jl7i86jl9l527578032hj1kgj81i93k8ig22i6508hh3k5gh270k07li176ii4kikhj1172k01057j52"},
-{"key":"AI3","name":"💝分享AI-3","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"http://tv.laohu.cool/lh260223.jar;md5;671e242ecba31efec15dca7156486c9b","ext":"7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"},
-     
+       {"key":"南瓜","name":"💝分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"jar":"http://cdn.qiaoji8.com/fix260329.jar;md5;81073e3666f2d6b2454b80212c81497a","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
+       {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar":"http://cdn.qiaoji8.com/fix260329.jar;md5;81073e3666f2d6b2454b80212c81497a","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
   
 {
             "key": "无水印采集",
