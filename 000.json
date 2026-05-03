@@ -86,7 +86,7 @@
             "type": 1,
             "api": "https://www.caiji.cyou/api.php/provide/vod",
             "searchable": 1,
-            "playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url=",
+            "playUrl": "json:https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url=",
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 0
