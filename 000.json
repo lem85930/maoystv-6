@@ -1,4 +1,4 @@
-{
+/{
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	{
@@ -1444,7 +1444,11 @@
       "url": "Sequence"
     },
 
-	
+	{
+            "name": "💝分享者解析0",
+            "type": 1,
+            "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+        },
 	{
             "name": "💝分享者解析-",
             "type": 0,
